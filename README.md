@@ -1,2 +1,2 @@
 # blog
-열심히 만듦
+https://rladiq.github.io/blog/
